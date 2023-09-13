@@ -14,21 +14,16 @@ input[type="text"] {
     font-size: 14px;
     margin-top: 5px;
 }
-
 .container {
     position: relative;
 }
-
 #image {
     position: absolute;
     top:10px;
     left:580px;
-  /*  background-image: url('path/to/image.jpg');*/
 }
-
 #imageCarPark {
     position: absolute;
     top:10px;
     left:580px;
-  /*  background-image: url('path/to/image.jpg');*/
 }
